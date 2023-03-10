@@ -1,7 +1,23 @@
-# orionhealth-app
-aplicativo para calcular IMC feito em React Native
+
+## orionhealth-app
+
+aplicativo para calcular IMC feito em React Native!
 
 
-<h1 align="center">
-  ![WhatsApp Image 2023-03-10 at 19 50 05_resized_resized](https://user-images.githubusercontent.com/58692160/224443772-045a87f3-86ed-4ceb-9288-9b25640e9d6c.jpeg)
-</h1>
+## Imagens
+
+![App Screenshot](https://user-images.githubusercontent.com/58692160/224444744-f7a61ea2-67f2-4bdc-847d-a42a5a8befd9.jpeg)
+
+
+
+## links
+
+Link do App abaixo
+
+[OrionHealth](https://expo.dev/artifacts/eas/g4Gf3BKNRLETgnswZz8kp6.apk)
+
+
+## Stack utilizada
+
+**Tecnologia:** React Native
+
